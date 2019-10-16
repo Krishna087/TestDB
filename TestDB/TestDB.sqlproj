@@ -61,5 +61,6 @@
   <ItemGroup>
     <Build Include="Country.sql" />
     <Build Include="Address.sql" />
+    <Build Include="Product.sql" />
   </ItemGroup>
 </Project>
