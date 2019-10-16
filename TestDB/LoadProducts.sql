@@ -3,6 +3,6 @@ as
 begin
 
 INSERT INTO Product values
- (1,'Azure CLI')
+ (3,'Azure CLI')
 
 end
